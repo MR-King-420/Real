@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 11; Realme E987 Max Build/RQ1A.602877.089) [FBAN/FB4A;FBAV/304.0.0.92.41;FBBV/328878146;FBRV/0;FBPN/com.facebook.katana;FBLC/bn_IN;FBMF/Realme;FBBD/Realme;FBDV/Realme E987 Max;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
