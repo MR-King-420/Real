@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 12; Redmi 547T Build/SQ3A.908907.015) [FBAN/FB4A;FBAV/174.0.0.67.25;FBBV/615698145;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Redmi;FBBD/Redmi;FBDV/Redmi 547T;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]

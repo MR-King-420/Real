@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 61 Max Build/RD1A.836198.056) [FBAN/FB4A;FBAV/291.0.0.87.17;FBBV/243685712;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Redmi;FBBD/Redmi;FBDV/Redmi Note 61 Max;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
