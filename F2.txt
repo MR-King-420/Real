@@ -1,0 +1,1 @@
+[FBAN/Orca-Android;FBAV/353.0.0.12.116;FBPN/com.facebook.orca;FBLC/en_US;FBBV/358361194;FBCR/cricket;FBMF/motorola;FBBD/motorola;FBDV/moto g power (2021);FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1488};FB_FW/1;] FBBK/1

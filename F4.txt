@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 11; RMX9648 Build/RQ3A.949689.098) [FBAN/FB4A;FBAV/266.0.0.52.42;FBBV/959707731;FBRV/0;FBPN/com.facebook.katana;FBLC/ne_NP;FBMF/RMX;FBBD/RMX;FBDV/RMX9648;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
