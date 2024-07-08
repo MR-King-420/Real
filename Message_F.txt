@@ -1,1 +1,1 @@
-Use M1 | M2
+Use METHOD1 | METHOD4
