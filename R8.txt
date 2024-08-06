@@ -1,1 +1,0 @@
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note N34T Build/PPR2.760575.076) [FBAN/FB4A;FBAV/414.0.0.26.73;FBBV/625010528;FBRV/0;FBPN/com.facebook.katana;FBLC/en_US;FBMF/Redmi;FBBD/Redmi;FBDV/Redmi Note N34T;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
